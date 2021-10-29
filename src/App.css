@@ -1,0 +1,29 @@
+.nav-links:hover {
+color: aqua !important;
+}
+.toggle{
+  color: aqua;
+}
+.bg_img{
+  background-image: url("../src/main.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* background-attachment: fixed; */
+}
+#imgid{
+  max-width: 100%;
+  height: auto;
+}
+.anagram-swap .word .letter{
+  color: aquamarine;
+ 
+}
+.images:hover{
+cursor: pointer;
+transition-duration: 1s;
+transform: scale(1.2);
+}
+.images{
+  border-radius:10px;
+}
